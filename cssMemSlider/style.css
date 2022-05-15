@@ -157,6 +157,11 @@ body {
         width: 500px;
         height: 400px;
     }
+    
+    .wrapper {
+        margin-top: 150px;
+    }
+
 }
 
 @media (max-width: 520px) {
